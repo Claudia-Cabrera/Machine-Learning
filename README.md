@@ -1,2 +1,2 @@
-# Machine-Learning-
-Machine Learning (BAN 6025) 
+# Machine Learning 
+Wake Forest MSBA Machine Learning (BAN 6025) 
